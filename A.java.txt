@@ -1,0 +1,7 @@
+public class Test
+{
+public void proccess()
+{
+System.out.println("Amit Successss");
+}
+}
