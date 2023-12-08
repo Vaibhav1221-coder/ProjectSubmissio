@@ -4,4 +4,8 @@ public void proccess()
 {
 System.out.println("Amit Successss");
 }
+public void main()
+{
+System.out.println("Main Enter");
+}
 }
